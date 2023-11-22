@@ -1,5 +1,8 @@
 # loopring-usage-example
 
+Created to debug the following issue: 
+https://github.com/Loopring/loopring_sdk/issues/65
+
 ## Prerequisites
 
 - `nvm`
