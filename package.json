@@ -1,8 +1,16 @@
 {
   "type": "commonjs",
+  "main": "dist/main.js",
   "name": "loopring-usage-example",
   "packageManager": "yarn@4.0.2",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ."
+  },
   "dependencies": {
     "@loopring-web/loopring-sdk": "^3.7.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.2"
   }
 }
