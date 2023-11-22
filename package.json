@@ -1,5 +1,5 @@
 {
-  "type": "commonjs",
+  "type": "module",
   "main": "dist/main.js",
   "name": "loopring-usage-example",
   "packageManager": "yarn@4.0.2",
