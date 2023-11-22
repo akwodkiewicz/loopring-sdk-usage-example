@@ -12,7 +12,6 @@
 #!.yarn/cache
 .pnp.*
 
-node_modules/
-!node_modules/.yarn-state.yml
+node_modules
 
 dist
