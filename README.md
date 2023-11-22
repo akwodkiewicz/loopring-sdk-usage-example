@@ -18,3 +18,7 @@ yarn build
 # step 5 -- run the app
 yarn start
 ```
+
+## Two versions of the issue
+
+There is one version of the app on `commonjs` branch (the same as `master`) and one on the `esm` branch.
